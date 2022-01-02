@@ -1,0 +1,299 @@
+.aaa{
+    margin: 1px;
+    padding: 5px;
+    background-color: burlywood;
+    height: 50px;
+    font-family:"Lucida Console", Courier, monospace ;
+font-size: large;
+}
+ul{
+list-style-type: none;
+
+
+
+}
+.tile{
+    float: left;
+    display: block;
+    text-decoration: none;
+    padding: 7px;
+    color: rgb(12, 3, 3);
+    
+
+}
+.lii{
+float: right;
+display: block;
+text-decoration: none;
+padding: 6px 1px 20px 20px;
+font-family:"Lucida Console", Courier, monospace ;
+
+
+
+color: rgb(201, 48, 48);
+}
+.bbb1{
+    text-align: center;
+    margin: 15px;
+}
+.ddd{
+    text-align: center;
+    color: rgb(40, 68, 52);
+    background-color: rgba(252, 218, 187, 0.747);
+    height: 800px;
+    font-family: 'Noto Serif TC', serif;
+font-size: 15px;
+}
+.d1{
+    width: 250px;
+    height: 180px;
+    background-color: rgba(252, 252, 252, 0.75);
+    position: relative;
+
+    left: 200px;
+  top: 40px;
+}
+.d2{
+    width: 250px;
+    height: 180px;
+    background-color: rgb(252, 252, 252, 0.75);
+    position: relative;
+
+left: 800px;
+bottom: 110px;
+
+}
+.d3{
+    width: 250px;
+    height: 180px;
+    background-color: rgb(255, 255, 255, 0.75);
+    position: relative;
+
+left: 470px;
+bottom: 180px;
+}
+.d4{
+    width: 250px;
+    height: 180px;
+    background-color: rgb(255, 255, 255, 0.75);
+    position: relative;
+
+left: 160px;
+bottom: 250px;
+}
+.d5{
+    width: 250px;
+    height: 180px;
+    background-color: rgb(255, 255, 255, 0.75);
+    position: relative;
+
+left: 570px;
+bottom: 300px;
+
+}
+.d6{
+    width: 250px;
+    height: 180px;
+    background-color: rgb(255, 255, 255, 0.75);
+    position: relative;
+
+left: 900px;
+bottom: 640px;
+}
+.fff{
+    height: 150px;
+    background-color: cornsilk;
+    position: relative;
+margin: 12px;
+}
+.f1{
+width: 100px;
+height: 100px;
+position: relative;
+display: inline-block;
+text-align: center;
+left: 150px;
+bottom: 50px;
+font-size: 30px;
+font-family:"Lucida Console", Courier, monospace ;
+}
+.f2{
+width: 200px;
+height: 100px;
+position: relative;
+display: inline-block;
+bottom: 20px;
+left: 360px;
+text-align: center;
+font-size: larger;
+font-family:"Lucida Console", Courier, monospace ;
+
+}
+.f3{
+width: 300px;
+height: 10px;
+position: relative;
+display: inline-block;
+left: 550px;
+font-family:"Lucida Console", Courier, monospace ;
+
+}
+
+.eee{
+    height: 650px;
+    background-color: rgb(236, 187, 147);
+    text-align: center;
+    font-family: 'Noto Serif TC', serif;
+
+}
+.tah{
+border: 3px solid #333;
+height: 48px;
+width: 60px;
+font-size: 35px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.tahr{
+    width: 600px;
+    font-family: 'Noto Serif TC', serif;
+}
+.wri{
+height: 90px;
+
+}
+.phograph{
+height: 500px;
+background-color: rgba(118, 125, 126, 0.623);
+position: relative;
+margin: 20px;
+
+
+}
+.ai{
+    height: 500px;
+    background-color: rgba(57, 220, 226, 0.555);
+    position: relative;
+    margin: 20px;
+
+}
+.process{
+    height: 500px;
+    background-color: rgba(116, 150, 212, 0.548);
+position: relative;
+margin: 20px;
+
+}
+.pti{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    font-family: 'Noto Serif TC', serif;
+font-size: 40px;
+left: 25px;
+}
+.pti2{
+    width: 100px;
+    height: 100px;
+   position: relative;
+    font-family: 'Noto Serif TC', serif;
+font-size: 40px;
+color: rgb(255, 254, 249);
+left: 28px;
+bottom: 100px;
+
+}
+.ati{
+    width: 100px;
+    height: 100px;
+    position: relative;
+
+    font-family: 'Noto Serif TC', serif;
+font-size: 46px;
+color: rgb(17, 47, 146);
+left: 30px;
+
+}
+.ati2{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    font-family: 'Noto Serif TC', serif;
+font-size: 46px;
+color: rgb(17, 47, 146);
+bottom: 100px;
+left: 105px;
+}
+.ati3{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    font-family: 'Noto Serif TC', serif;
+color: rgb(17, 47, 146);
+font-size: 46px;
+left: 180px;
+bottom: 200px;
+}
+.rti{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    font-family: 'Noto Serif TC', serif;
+color: rgb(206, 17, 17);
+font-size: 46px;
+
+}
+.rti2{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    font-family: 'Noto Serif TC', serif;
+color: rgb(253, 201, 201);
+font-size: 46px;
+left: 80px;
+bottom: 60px;
+}
+.rti3{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    font-family: 'Noto Serif TC', serif;
+color: rgb(255, 111, 147);
+font-size: 46px;
+left: 160px;
+bottom: 120px;
+}
+.wp1{
+    position: relative;
+    left: 290px;
+bottom: 160px;
+
+}
+.wp2{
+    position: relative;
+    left: 680px;
+    bottom: 500px;
+}
+.ap1{
+    position: relative;
+    left: 340px;
+bottom: 250px;
+}
+.ap2{
+    position: relative;
+    left: 740px;
+    bottom: 640px;
+}
+.pp1{
+    position: relative;
+    left: 280px;
+    bottom: 240px;
+}
+.pp2{
+    position: relative;
+    left: 700px;
+    bottom: 600px;
+
+
+}
